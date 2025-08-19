@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Het Eetkompas</title>
+</head>
+<body>
+  <h1>Welkom bij Het Eetkompas! 🎉</h1>
+  <p>Deze site is nu live via GitHub Pages.</p>
+  <p>Meer gezonde recepten, tips en inspiratie komen binnenkort!</p>
+</body>
+</html>
